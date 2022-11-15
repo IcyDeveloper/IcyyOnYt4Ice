@@ -1,0 +1,5 @@
+print("👋 Hi, I’m IcyDev.")
+print("👀 I’m interested in scripting .lua, and python.")
+print("🌱 I’m currently learning .lua.")
+print("💞️ I’m looking to collaborate on Roblox.")
+print("📫 How to reach me? Email @idcimhacking@gmail.com")
